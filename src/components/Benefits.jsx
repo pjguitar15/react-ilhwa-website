@@ -6,7 +6,7 @@ const Benefits = () => {
     <div className='benefits m-0'>
       <Container>
         <Row>
-          <Col md='6' className='p-4'>
+          <Col md='12' lg='6' className='p-4'>
             <h4>
               <span style={{ color: '#0f6b9e' }}>Benefits </span>of
             </h4>
@@ -25,7 +25,7 @@ const Benefits = () => {
               <li className='my-2'>Post-surgical rehabilitation</li>
             </ul>
           </Col>
-          <Col md='6' className='p-4'>
+          <Col md='12' lg='6' className='p-4'>
             <h2>
               Therapy <span style={{ color: '#0f6b9e' }}>Rates</span>
             </h2>
@@ -35,7 +35,7 @@ const Benefits = () => {
             </p>
             <h5 className='mb-4'>Rates {'(Reducing or eliminating pain)'}</h5>
             <Row>
-              <Col md='4'>
+              <Col md='4' lg='4' className='mt-sm-4'>
                 <Card className='border-0 shadow-sm text-center p-3'>
                   <h1>30</h1>
                   <p className='m-0'>minutes</p>
@@ -43,7 +43,7 @@ const Benefits = () => {
                   <h4 style={{ color: '#0f6b9e' }}>$65.00</h4>
                 </Card>
               </Col>
-              <Col md='4'>
+              <Col md='4' lg='4' className='mt-sm-4'>
                 <Card className='border-0 shadow-sm text-center p-3'>
                   <h1>30</h1>
                   <p className='m-0'>minutes</p>
@@ -51,7 +51,7 @@ const Benefits = () => {
                   <h4 style={{ color: '#0f6b9e' }}>$65.00</h4>
                 </Card>
               </Col>
-              <Col md='4'>
+              <Col md='4' lg='4' className='mt-sm-4'>
                 <Card className='border-0 shadow-sm text-center p-3'>
                   <h1>30</h1>
                   <p className='m-0'>minutes</p>

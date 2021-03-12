@@ -12,7 +12,7 @@ const Services = () => {
       </div>
       <Row className='text-center mt-4'>
         <Col md='4' className='p-4'>
-          <i class='fas services-icons fa-running'></i>
+          <i className='fas services-icons fa-running'></i>
           <h5>Sports Rehabilitation</h5>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam
@@ -20,7 +20,7 @@ const Services = () => {
           </p>
         </Col>
         <Col md='4' className='p-4'>
-          <i class='fas services-icons fa-running'></i>
+          <i className='fas services-icons fa-running'></i>
           <h5>Sports Rehabilitation</h5>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam
@@ -28,7 +28,7 @@ const Services = () => {
           </p>
         </Col>
         <Col md='4' className='p-4'>
-          <i class='fas services-icons fa-running'></i>
+          <i className='fas services-icons fa-running'></i>
           <h5>Sports Rehabilitation</h5>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam
@@ -36,7 +36,7 @@ const Services = () => {
           </p>
         </Col>
         <Col md='4' className='p-4'>
-          <i class='fas services-icons fa-running'></i>
+          <i className='fas services-icons fa-running'></i>
           <h5>Sports Rehabilitation</h5>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam
@@ -44,7 +44,7 @@ const Services = () => {
           </p>
         </Col>
         <Col md='4' className='p-4'>
-          <i class='fas services-icons fa-running'></i>
+          <i className='fas services-icons fa-running'></i>
           <h5>Sports Rehabilitation</h5>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam
@@ -52,7 +52,7 @@ const Services = () => {
           </p>
         </Col>
         <Col md='4' className='p-4'>
-          <i class='fas services-icons fa-running'></i>
+          <i className='fas services-icons fa-running'></i>
           <h5>Sports Rehabilitation</h5>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam

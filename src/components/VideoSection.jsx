@@ -6,14 +6,14 @@ const VideoSection = () => {
     <div className='video-section m-0'>
       <Container>
         <Row className='m-0'>
-          <Col md='5' className='p-0 d-flex align-items-center'>
+          <Col lg='5' xs='12' className='p-0 d-flex align-items-center mt-sm-5'>
             <img
               src={img}
               style={{ maxHeight: '100%', maxWidth: '100%' }}
               alt=''
             />
           </Col>
-          <Col md='7' className='col-right'>
+          <Col lg='7' xs='12' className='col-right'>
             <h4>Positive Effects of</h4>
             <h3>Our Ilhwa Ginseng Products</h3>
 

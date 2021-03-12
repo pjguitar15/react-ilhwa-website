@@ -6,13 +6,13 @@ const NavbarComponent = () => {
     <div className='navbar-component shadow-sm'>
       <Container>
         <Row className='align-items-center'>
-          <Col xl='6' className='logo'>
+          <Col md='2' lg='6' xs='12' className='logo mt-md-0 mt-4'>
             <div style={{ height: '45px' }}>
               <img style={{ height: '100%' }} src={ilhwalogo} alt='' />
             </div>
           </Col>
-          <Col xl='6' className='links py-4'>
-            <ul className='d-flex align-items-center m-0 justify-content-between'>
+          <Col md='10' lg='6' xs='12' className='links py-4'>
+            <ul className='d-flex align-items-center m-0 justify-content-between p-0'>
               <li className='list-unstyled navbar-links'>Home</li>
               <li className='list-unstyled navbar-links'>About</li>
               <li className='list-unstyled navbar-links'>Service</li>

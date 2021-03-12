@@ -9,19 +9,19 @@ const JumbotronComponent = () => {
     >
       <Container>
         <Row>
-          <Col sm='7'>
+          <Col md='12' lg='6' xs='12' className='text-center text-lg-left'>
             <div className='front-page-h1 mb-4'>Il Hwa Philippines</div>
             <p className='front-page-text mb-5'>
               Korean Authenticated Ginseng Products, other herbal products,
               Vitamin, Supplement, Facial products etc.
             </p>
             <p>
-              <Button className='btn-lg' variant='warning'>
+              <Button size='md' variant='warning'>
                 About Company
               </Button>
             </p>
           </Col>
-          <Col sm='5'>
+          <Col className='img-col' md='12' lg='6' xs='12'>
             <div
               style={{
                 width: '100%',

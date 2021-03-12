@@ -51,3 +51,26 @@
   padding: 6rem 0;
   color: rgb(63, 63, 63);
 }
+
+@media (max-width: 768px) {
+  .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .video-section .col-right {
+    padding: 4rem 0;
+  }
+  .img-col {
+    display: none;
+  }
+}
+
+@media (max-width: 992px) {
+  .video-section .col-right {
+    padding: 2rem 2rem;
+  }
+  .img-col {
+    display: none;
+  }
+}
