@@ -6,6 +6,20 @@
   cursor: pointer;
   color: #1075bb;
 }
+.jumbotron-section {
+  padding: 18rem 0;
+
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)),
+    url('./Assets/jumbotron-img.jpg');
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .front-page-h1 {
   font-weight: 700;
   font-size: 60px;
