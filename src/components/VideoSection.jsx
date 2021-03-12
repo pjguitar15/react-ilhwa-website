@@ -1,6 +1,6 @@
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
-import img from '../Assets/herbal.jpg'
+import img from '../Assets/product10.jpg'
 const VideoSection = () => {
   return (
     <div className='video-section m-0'>
@@ -9,6 +9,7 @@ const VideoSection = () => {
           <Col lg='5' xs='12' className='p-0 d-flex align-items-center mt-sm-5'>
             <img
               src={img}
+              className='shadow-sm'
               style={{ maxHeight: '100%', maxWidth: '100%' }}
               alt=''
             />

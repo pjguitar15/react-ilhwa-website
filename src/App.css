@@ -55,7 +55,10 @@
   padding: 6rem 0;
   color: rgb(63, 63, 63);
 }
-
+.customer-feedback {
+  padding: 6rem 0;
+  background: #f8f9fe;
+}
 
 @media (max-width: 768px) {
   .logo {
