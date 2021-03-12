@@ -6,7 +6,7 @@ import CustomerFeedback from './components/CustomerFeedback.jsx'
 import Footer from './components/Footer.jsx'
 import JumbotronComponent from './components/JumbotronComponent.jsx'
 import LatestNews from './components/LatestNews.jsx'
-import Services from './components/Services.jsx'
+import HealthBenefits from './components/HealthBenefits.jsx'
 import ShopSection from './components/ShopSection.jsx'
 import SpecialOffer from './components/SpecialOffer.jsx'
 import TriSection from './components/TriSection.jsx'
@@ -18,7 +18,7 @@ const Homepage = () => {
       <JumbotronComponent />
       <TriSection />
       <VideoSection />
-      <Services />
+      <HealthBenefits />
       <SpecialOffer />
       <Benefits />
       <ShopSection />

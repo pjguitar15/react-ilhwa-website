@@ -18,14 +18,16 @@ const VideoSection = () => {
             <h3>Our Ilhwa Ginseng Products</h3>
 
             <p className='text-justify'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
-              architecto, accusamus reiciendis provident est qui facere nam
-              temporibus, rerum quo asperiores aspernatur quae doloremque
-              aliquam repellat voluptas. Vel, eum corporis.
+              Il Hwa Korean Ginseng Extract is made from 100% pure ginseng
+              extracted from highest quality ginseng roots through a low
+              temperature vacuum method. This new method preserves the original
+              efficacy and flavor of ginseng. It is delicious both in hot or
+              cold water.
             </p>
             <p className='text-justify'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit
-              architecto, accusamus reiciendis provident est qui facere nam.
+              Direction for Use: Put one spoonful of this concentrated ginseng
+              tea into a cup of hot water. Add sugar or honey to taste. Stir
+              well.
             </p>
           </Col>
         </Row>
