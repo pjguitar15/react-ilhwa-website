@@ -37,6 +37,8 @@ const CustomerFeedback = () => {
           <i class='fas fa-star mr-1 text-warning'></i>
           <i class='fas fa-star mr-1 text-warning'></i>
           <i class='fas fa-star mr-1 text-warning'></i>
+          <i class='fas fa-star mr-1 text-warning'></i>
+          <i class='fas fa-star mr-1 text-warning'></i>
         </div>
       </Container>
     </div>
