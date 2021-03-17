@@ -3,7 +3,7 @@ import { Container } from 'react-bootstrap'
 import profphoto from '../Assets/smiling-guy.jpg'
 const CustomerFeedback = () => {
   return (
-    <div className='m-0 customer-feedback text-center'>
+    <div id='feedback' className='m-0 customer-feedback text-center'>
       <Container>
         <h2>What Our Customers Say</h2>
         <div className='col-5 py-5 mx-auto '>

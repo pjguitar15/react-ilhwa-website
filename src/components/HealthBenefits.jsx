@@ -2,7 +2,7 @@ import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
 const HealthBenefits = () => {
   return (
-    <Container className='services'>
+    <Container id='benefits' className='services'>
       <div className='text-center p-4'>
         <h2>Health Benefits</h2>
         <p>

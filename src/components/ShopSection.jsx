@@ -12,7 +12,7 @@ import product11 from '../Assets/product11.jpg'
 import { Container, Row, Col, Card } from 'react-bootstrap'
 const ShopSection = () => {
   return (
-    <div className='m-0 shop-section'>
+    <div id='shop' className='m-0 shop-section'>
       <Container>
         <h2 className='text-center'>Welcome to our shop</h2>
         <p className='text-center'>

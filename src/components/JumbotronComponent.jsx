@@ -3,7 +3,7 @@ import { Jumbotron, Button, Container, Row, Col } from 'react-bootstrap'
 
 const JumbotronComponent = () => {
   return (
-    <Jumbotron className='m-0 rounded-0 jumbotron-section'>
+    <Jumbotron id='home' className='m-0 rounded-0 jumbotron-section'>
       <Container>
         <Row>
           <Col md='12' lg='6' xs='12' className='text-center text-lg-left'>

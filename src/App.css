@@ -20,6 +20,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+.brand-logo:hover {
+  cursor: pointer;
+}
 .front-page-h1 {
   font-weight: 700;
   font-size: 60px;

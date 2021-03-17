@@ -2,7 +2,7 @@ import React from 'react'
 import { Row, Col, Container } from 'react-bootstrap'
 const TriSection = () => {
   return (
-    <div className='tri-section m-0 text-center'>
+    <div id='about' className='tri-section m-0 text-center'>
       <Container>
         <Row>
           <Col md='4' className='p-4'>
